@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The group with more experience is the winner! -
+Made using in React
 
 ## Available Scripts
 
